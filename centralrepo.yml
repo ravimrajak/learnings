@@ -1,5 +1,5 @@
 my:
-  greeting: Hi, Getting configurations from centralized config server .48 8888
+  greeting: Hi, Getting configurations from centralized config server GITHUB repo
   list: one,two,three,four
 
 db:
